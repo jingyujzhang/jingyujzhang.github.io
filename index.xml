@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Jingyu Zhang</title>
+    <link>https://jingyuzhang.org/</link>
+      <atom:link href="https://jingyuzhang.org/index.xml" rel="self" type="application/rss+xml" />
+    <description>Jingyu Zhang</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language>
+    <image>
+      <url>https://jingyuzhang.org/media/icon_hu_8b792fc0bcdf6699.png</url>
+      <title>Jingyu Zhang</title>
+      <link>https://jingyuzhang.org/</link>
+    </image>
+    
+  </channel>
+</rss>

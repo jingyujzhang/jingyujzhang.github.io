@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Open-Source Software | Jingyu Zhang</title>
+    <link>https://jingyuzhang.org/software/</link>
+      <atom:link href="https://jingyuzhang.org/software/index.xml" rel="self" type="application/rss+xml" />
+    <description>Open-Source Software</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language>
+    <image>
+      <url>https://jingyuzhang.org/media/icon_hu_8b792fc0bcdf6699.png</url>
+      <title>Open-Source Software</title>
+      <link>https://jingyuzhang.org/software/</link>
+    </image>
+    
+  </channel>
+</rss>
